@@ -205,6 +205,10 @@ Escalation status:
 - [Shogoki](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/67/#issuecomment-1605595300): accepted
 - [DevABDee](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/67/#issuecomment-1605621561): accepted
 
+**jacksanford1**
+
+Acknowledged by protocol team (won't fix). 
+
 # Issue M-1: In case the portfolio makes a loss, the total reserves and reserve ratio will be inflated. 
 
 Source: https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/16 
@@ -381,6 +385,10 @@ Escalations have been resolved successfully!
 Escalation status:
 - [thangtranth](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/16/#issuecomment-1605243342): accepted
 - [Shogoki](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/16/#issuecomment-1604539486): rejected
+
+**jacksanford1**
+
+Acknowledged by protocol team (won't fix). 
 
 # Issue M-2: USD1 is priced as $1 instead of being pegged to USDT 
 
@@ -757,6 +765,10 @@ Escalations have been resolved successfully!
 Escalation status:
 - [0xruhum](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/48/#issuecomment-1603206309): accepted
 
+**jacksanford1**
+
+Acknowledged by protocol team (won't fix). 
+
 # Issue M-3: No slippage or deadline control for swapping while stability burning 
 
 Source: https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/88 
@@ -961,6 +973,10 @@ Escalations have been resolved successfully!
 Escalation status:
 - [juntzhan](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/88/#issuecomment-1605278986): accepted
 - [Shogoki](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/88/#issuecomment-1604553496): rejected
+
+**jacksanford1**
+
+Acknowledged by protocol team (won't fix). 
 
 # Issue M-4: Users may not be able to fully redeem USD1 into USDT even when reserve ratio is above 100% 
 
@@ -1239,6 +1255,10 @@ Escalation status:
 - [0xruhum](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/95/#issuecomment-1603137490): accepted
 - [thangtranth](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/95/#issuecomment-1605657584): rejected
 
+**jacksanford1**
+
+Acknowledged by protocol team (won't fix). 
+
 # Issue M-5: If any stable depegs, oracle will fail, disabling swaps 
 
 Source: https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/145 
@@ -1394,6 +1414,10 @@ Escalations have been resolved successfully!
 
 Escalation status:
 - [0xruhum](https://github.com/sherlock-audit/2023-04-unitasprotocol-judging/issues/145/#issuecomment-1605296072): accepted
+
+**jacksanford1**
+
+Acknowledged by protocol team (won't fix). 
 
 # Issue M-6: No clear threshold on when the oracle is updated will cause stale prices to be accepted 
 
